@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\Martynas\source\repos\BankAccountADT\BankAccountADT\main.c(22,33): warning C4047: 'function': 'Account' differs in levels of indirection from 'Account [10]'
+C:\Users\Martynas\source\repos\BankAccountADT\BankAccountADT\main.c(22,17): warning C4024: 'destroyAccount': different types for formal and actual parameter 1
+  BankAccountADT.vcxproj -> C:\Users\Martynas\source\repos\BankAccountADT\x64\Debug\BankAccountADT.exe
